@@ -1,0 +1,29 @@
+{
+  "name": "typography-theme-nord",
+  "description": "A Typography theme based on Nord color palette",
+  "version": "0.1.0",
+  "author": "Anderson Madeira <andersonmadeiracs@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/andersonmadeira/typography-theme-nord/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "homepage": "https://github.com/andersonmadeira/typography-theme-nord/#readme",
+  "keywords": [
+    "typography",
+    "typography-theme",
+    "nord"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonmadeira/typography-theme-nord.git"
+  },
+  "scripts": {
+    "pretty": "prettier --write \"./**/*.{js,jsx,json}\"",
+    "test": "echo \"No tests found\""
+  }
+}
