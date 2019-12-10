@@ -1,6 +1,6 @@
 const theme = {
   title: 'Nord',
-  baseFontSize: '16px',
+  baseFontSize: '18px',
   baseLineHeight: '1.5',
   scaleRatio: 2,
   googleFonts: [
