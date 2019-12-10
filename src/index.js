@@ -17,7 +17,10 @@ const theme = {
   boldWeight: 400,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
     'h1,h2,h3,h4,h5,h6': {
-      lineHeight: 1.1
+      lineHeight: 1.2
+    },
+    p: {
+      margin: '1em 0',
     },
     a: {
       color: options.bodyColor,
