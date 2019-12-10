@@ -23,11 +23,11 @@ const theme = {
       margin: '1em 0',
     },
     a: {
-      color: options.bodyColor,
+      color: '#5E81AC',
       textDecoration: 'underline'
     },
     'a:hover,a:active': {
-      color: '#88C0D0'
+      color: '#81A1C1',
     },
     blockquote: {
       ...scale(1 / 5),
